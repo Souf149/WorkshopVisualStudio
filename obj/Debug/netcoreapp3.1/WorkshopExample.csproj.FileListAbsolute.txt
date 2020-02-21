@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\WorkshopExample\bin\Debug\netcoreapp3.1\WorkshopExample.exe
+C:\Users\User\source\repos\WorkshopExample\obj\Debug\netcoreapp3.1\WorkshopExample.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WorkshopExample\obj\Debug\netcoreapp3.1\WorkshopExample.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WorkshopExample\obj\Debug\netcoreapp3.1\WorkshopExample.AssemblyInfo.cs
+C:\Users\User\source\repos\WorkshopExample\bin\Debug\netcoreapp3.1\WorkshopExample.deps.json
+C:\Users\User\source\repos\WorkshopExample\bin\Debug\netcoreapp3.1\WorkshopExample.runtimeconfig.json
+C:\Users\User\source\repos\WorkshopExample\bin\Debug\netcoreapp3.1\WorkshopExample.runtimeconfig.dev.json
+C:\Users\User\source\repos\WorkshopExample\bin\Debug\netcoreapp3.1\WorkshopExample.dll
+C:\Users\User\source\repos\WorkshopExample\bin\Debug\netcoreapp3.1\WorkshopExample.pdb
+C:\Users\User\source\repos\WorkshopExample\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+C:\Users\User\source\repos\WorkshopExample\obj\Debug\netcoreapp3.1\WorkshopExample.csproj.CopyComplete
+C:\Users\User\source\repos\WorkshopExample\obj\Debug\netcoreapp3.1\WorkshopExample.dll
+C:\Users\User\source\repos\WorkshopExample\obj\Debug\netcoreapp3.1\WorkshopExample.pdb
